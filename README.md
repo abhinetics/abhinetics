@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full-stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkumarsinghofficial&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetkumarsinghofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinetics&label=Profile%20views&color=0e75b6&style=flat" alt="abhinetics" /> </p>
 
 - 🔭 I’m currently working on **React hooks**
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Fighting to manage time**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkumarsinghofficial&show_icons=true&locale=en" alt="abhijeetkumarsinghofficial" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinetics&show_icons=true&locale=en" alt="abhinetics" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
