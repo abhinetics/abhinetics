@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **Pygame**
+- 🌱 I’m currently learning **AI-Agents**
 
 - 💬 Ask me about **C++ doubts**
 
