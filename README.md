@@ -42,10 +42,10 @@ fun_fact: "Once optimized a rooted phone's RAM just to test better"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinetics&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinetics&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhinetics&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&count_private=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinetics&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&cache_seconds=1800" width="42%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinetics&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=abhinetics&theme=radical&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF" width="60%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinetics&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%" />
 
